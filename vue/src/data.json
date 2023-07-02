@@ -1,0 +1,69 @@
+{
+    "exams": [
+        {
+            "id": 1,
+            "title": "Exam 1",
+            "start-date": "2023-6-5 18:00",
+            "end-date": "2023-6-5 20:00",
+            "totalTime": 120,
+            "totalPerson": 30,
+            "score": 100,
+            "questions": [
+                {
+                    "id": 1,
+                    "title": "question one",
+                    "type": 0,
+                    "text": "Choose A",
+                    "options": [
+                        {
+                            "index": "A",
+                            "text": "A"
+                        },
+                        {
+                            "index": "B",
+                            "text": "B"
+                        },
+                        {
+                            "index": "C",
+                            "text": "C"
+                        },
+                        {
+                            "index": "D",
+                            "text": "D"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "question two",
+                    "type": 0,
+                    "text": "Choose B",
+                    "options": [
+                        {
+                            "index": "A",
+                            "text": "A"
+                        },
+                        {
+                            "index": "B",
+                            "text": "B"
+                        },
+                        {
+                            "index": "C",
+                            "text": "C"
+                        },
+                        {
+                            "index": "D",
+                            "text": "D"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "text": "Input 123",
+                    "title": "question three",
+                    "type": 1
+                }
+            ]
+        }
+    ]
+}
